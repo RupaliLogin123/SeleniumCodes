@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.thetestingacademy.DataDrivenTesting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
-import javax.swing.plaf.TableHeaderUI;
 import java.time.Duration;
 
 public class CommonToAll {
